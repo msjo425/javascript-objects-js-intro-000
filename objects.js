@@ -1,1 +1,1 @@
-var playlist = {phoenix:"1901"}
+var playlist = {phoenix:"1901"};
